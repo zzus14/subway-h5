@@ -1,0 +1,29 @@
+# ---------- 依赖 ----------
+# 由 npm install 依据 package-lock.json 还原，不入库
+node_modules/
+
+# ---------- 构建产物 ----------
+# 由 npm run build 生成，不入库（部署时在 CI 里构建，或临时 git add -f dist）
+dist/
+
+# ---------- 编辑器 / 系统 ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.local
+
+# ---------- 本地工具数据 ----------
+# WorkBuddy 的本地记忆与过程截图，不属于项目源码
+.workbuddy/
+
+# ---------- 日志 ----------
+*.log
+npm-debug.log*
+
+# ---------- Office 临时锁文件 ----------
+# Word / Excel 打开文档时生成的 ~$xxx.docx，关掉文档就没了
+~$*
+
+# ---------- 生成报告时的中间产物 ----------
+output/

@@ -1,0 +1,178 @@
+:root {
+  --primary: #2f6bff;
+  --primary-light: #eaf1ff;
+  --bg: #f5f6f8;
+  --card: #ffffff;
+  --text: #1a1b1c;
+  --text-2: #6b7280;
+  --border: #e8e9ed;
+  --placeholder: #9aa3af;
+  --icon-muted: #c4c9d4;
+  --danger: #e23d2e;
+  --header-grad: linear-gradient(135deg, #2f6bff 0%, #4a8aff 100%);
+
+  /* vant 组件变量映射 */
+  --van-background: #f5f6f8;
+  --van-background-2: #ffffff;
+  --van-cell-background: #ffffff;
+  --van-cell-text-color: #1a1b1c;
+  --van-cell-value-color: #6b7280;
+  --van-empty-description-color: #9aa3af;
+  --van-tabbar-background: #ffffff;
+  --van-tabbar-item-text-color: #9aa3af;
+  --van-tabbar-item-active-color: #2f6bff;
+  --van-field-label-color: #1a1b1c;
+  --van-field-input-text-color: #1a1b1c;
+  --van-field-placeholder-text-color: #9aa3af;
+  --van-popup-background: #ffffff;
+  --van-dialog-background: #ffffff;
+  --van-dialog-title-color: #1a1b1c;
+  --van-dialog-message-color: #6b7280;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'PingFang SC', 'Helvetica Neue', Arial, 'Microsoft YaHei', sans-serif;
+}
+
+.page {
+  min-height: 100vh;
+  background: var(--bg);
+  padding-bottom: 70px;
+}
+
+.page-no-tab {
+  min-height: 100vh;
+  background: var(--bg);
+  padding-bottom: 20px;
+}
+
+/* 顶部搜索区（仿鸿蒙原版） */
+.home-header {
+  background: var(--header-grad);
+  padding: 14px 12px 34px;
+  color: #fff;
+}
+
+.city-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.search-box {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background: var(--card);
+  border-radius: 18px;
+  height: 36px;
+  padding: 0 12px;
+  color: var(--placeholder);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* 通用卡片 */
+.card {
+  background: var(--card);
+  border-radius: 14px;
+  margin: 12px 12px 0;
+  padding: 14px;
+}
+
+.section-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.section-title .bar {
+  width: 4px;
+  height: 16px;
+  border-radius: 2px;
+  background: var(--primary);
+}
+
+.section-more {
+  margin-left: auto;
+  font-size: 13px;
+  color: var(--text-2);
+  font-weight: 400;
+}
+
+/* 线路色点 */
+.line-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+/* van 细节 */
+.van-nav-bar {
+  background: var(--primary) !important;
+}
+
+.van-nav-bar__title {
+  color: #fff !important;
+  font-weight: 600;
+}
+
+.van-nav-bar .van-icon {
+  color: #fff !important;
+}
+
+.van-nav-bar__text {
+  color: #fff !important;
+}
+
+.van-tabbar {
+  max-width: 480px;
+  left: 50% !important;
+  transform: translateX(-50%);
+  background: var(--van-tabbar-background) !important;
+}
+
+/* 固定导航栏同样限制在 480px 手机壳内，否则桌面宽屏下蓝条会拉满整个窗口 */
+.van-nav-bar--fixed {
+  max-width: 480px;
+  width: 100%;
+  left: 50% !important;
+  right: auto !important;
+  transform: translateX(-50%);
+}
+
+.van-tabbar-item {
+  color: var(--van-tabbar-item-text-color) !important;
+}
+
+.van-tabbar-item--active {
+  color: var(--van-tabbar-item-active-color) !important;
+}
+
+/* 拥挤度标签 */
+.crowd-tag-0 {
+  color: #07c160 !important;
+}
+.crowd-tag-1 {
+  color: #ed6a0c !important;
+}
+.crowd-tag-2 {
+  color: var(--danger) !important;
+}

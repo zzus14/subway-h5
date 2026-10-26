@@ -1,0 +1,16 @@
+# 统一换行符：仓库内一律 LF，Windows 检出时自动转 CRLF
+* text=auto
+
+# 脚本强制 LF，避免在 Linux/CI 上出现 \r 报错
+*.sh  text eol=lf
+*.bat text eol=crlf
+
+# Office 文档是二进制，禁止 Git 做换行符转换或 diff
+*.docx binary
+*.doc  binary
+*.xlsx binary
+*.xls  binary
+*.pptx binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary

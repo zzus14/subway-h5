@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "S001",
+    "name": "北环城路",
+    "pinyin": "beihuanchenglu",
+    "short": "bhcl",
+    "lineIds": [
+      "L1",
+      "L8"
+    ],
+    "lng": 125.3212,
+    "lat": 43.9575,
+    "firstLast": {
+      "first": "05:50",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S002",
+    "name": "庆丰路",
+    "pinyin": "qingfenglu",
+    "short": "qfl",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3231,
+    "lat": 43.9453,
+    "firstLast": {
+      "first": "05:51",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S003",
+    "name": "一匡街",
+    "pinyin": "yikuangjie",
+    "short": "ykj",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3251,
+    "lat": 43.9331,
+    "firstLast": {
+      "first": "05:52",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S004",
+    "name": "长春站北",
+    "pinyin": "changchunzhanbei",
+    "short": "cczb",
+    "lineIds": [
+      "L1",
+      "L4"
+    ],
+    "lng": 125.3231,
+    "lat": 43.921,
+    "firstLast": {
+      "first": "05:53",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S005",
+    "name": "长春站",
+    "pinyin": "changchunzhan",
+    "short": "ccz",
+    "lineIds": [
+      "L1",
+      "L3"
+    ],
+    "lng": 125.325,
+    "lat": 43.9088,
+    "firstLast": {
+      "first": "05:54",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S006",
+    "name": "胜利公园",
+    "pinyin": "shengligongyuan",
+    "short": "slgy",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3269,
+    "lat": 43.8966,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S007",
+    "name": "人民广场",
+    "pinyin": "renminguangchang",
+    "short": "rmgc",
+    "lineIds": [
+      "L1",
+      "L5"
+    ],
+    "lng": 125.3249,
+    "lat": 43.8844,
+    "firstLast": {
+      "first": "05:45",
+      "last": "23:06"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S008",
+    "name": "解放大路",
+    "pinyin": "jiefangdalu",
+    "short": "jfdl",
+    "lineIds": [
+      "L1",
+      "L2"
+    ],
+    "lng": 125.3268,
+    "lat": 43.8723,
+    "firstLast": {
+      "first": "05:57",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S009",
+    "name": "东北师大",
+    "pinyin": "dongbeishida",
+    "short": "dbsd",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3287,
+    "lat": 43.8601,
+    "firstLast": {
+      "first": "05:58",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S010",
+    "name": "工农广场",
+    "pinyin": "gongnongguangchang",
+    "short": "gngc",
+    "lineIds": [
+      "L1",
+      "L7"
+    ],
+    "lng": 125.3268,
+    "lat": 43.8479,
+    "firstLast": {
+      "first": "05:59",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S011",
+    "name": "繁荣路",
+    "pinyin": "fanronglu",
+    "short": "frl",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3287,
+    "lat": 43.8357,
+    "firstLast": {
+      "first": "06:00",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S012",
+    "name": "卫星广场",
+    "pinyin": "weixingguangchang",
+    "short": "wxgc",
+    "lineIds": [
+      "L1",
+      "L3"
+    ],
+    "lng": 125.3267,
+    "lat": 43.8235,
+    "firstLast": {
+      "first": "06:01",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S013",
+    "name": "市政府",
+    "pinyin": "shizhengfu",
+    "short": "szf",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3286,
+    "lat": 43.8114,
+    "firstLast": {
+      "first": "06:02",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S014",
+    "name": "华庆路",
+    "pinyin": "huaqinglu",
+    "short": "hql",
+    "lineIds": [
+      "L1",
+      "L6"
+    ],
+    "lng": 125.3306,
+    "lat": 43.7959,
+    "firstLast": {
+      "first": "06:03",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S015",
+    "name": "红嘴子",
+    "pinyin": "hongzuizi",
+    "short": "hzz",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3286,
+    "lat": 43.7837,
+    "firstLast": {
+      "first": "06:04",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ],
+    "newExits": [
+      "A口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S016",
+    "name": "汽车公园",
+    "pinyin": "qichegongyuan",
+    "short": "qcgy",
+    "lineIds": [
+      "L2",
+      "L7"
+    ],
+    "lng": 125.1983,
+    "lat": 43.8465,
+    "firstLast": {
+      "first": "05:15",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S017",
+    "name": "捷达大路",
+    "pinyin": "jiedadalu",
+    "short": "jddl",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2114,
+    "lat": 43.8476,
+    "firstLast": {
+      "first": "05:31",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S018",
+    "name": "西湖",
+    "pinyin": "xihu",
+    "short": "xh",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2245,
+    "lat": 43.8487,
+    "firstLast": {
+      "first": "05:32",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S019",
+    "name": "双丰",
+    "pinyin": "shuangfeng",
+    "short": "sf",
+    "lineIds": [
+      "L2",
+      "L6"
+    ],
+    "lng": 125.2338,
+    "lat": 43.8498,
+    "firstLast": {
+      "first": "05:33",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S020",
+    "name": "长春西站",
+    "pinyin": "changchunxizhan",
+    "short": "ccxz",
+    "lineIds": [
+      "L2",
+      "L6"
+    ],
+    "lng": 125.2469,
+    "lat": 43.8509,
+    "firstLast": {
+      "first": "05:34",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S021",
+    "name": "兴隆堡",
+    "pinyin": "xinglongbao",
+    "short": "xlb",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2601,
+    "lat": 43.852,
+    "firstLast": {
+      "first": "05:35",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S022",
+    "name": "西环城路",
+    "pinyin": "xihuanchenglu",
+    "short": "xhcl",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2693,
+    "lat": 43.8531,
+    "firstLast": {
+      "first": "05:36",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S023",
+    "name": "和平大街",
+    "pinyin": "hepingdajie",
+    "short": "hpdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2825,
+    "lat": 43.8542,
+    "firstLast": {
+      "first": "05:37",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S024",
+    "name": "万福街",
+    "pinyin": "wanfujie",
+    "short": "wfj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.2956,
+    "lat": 43.8553,
+    "firstLast": {
+      "first": "05:38",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S025",
+    "name": "景阳广场",
+    "pinyin": "jingyangguangchang",
+    "short": "jygc",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.3049,
+    "lat": 43.8564,
+    "firstLast": {
+      "first": "05:39",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S026",
+    "name": "解放桥",
+    "pinyin": "jiefangqiao",
+    "short": "jfq",
+    "lineIds": [
+      "L2",
+      "L3"
+    ],
+    "lng": 125.299,
+    "lat": 43.87,
+    "firstLast": {
+      "first": "05:40",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S027",
+    "name": "建设广场",
+    "pinyin": "jiansheguangchang",
+    "short": "jsgc",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.3273,
+    "lat": 43.8586,
+    "firstLast": {
+      "first": "05:41",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S028",
+    "name": "文化广场",
+    "pinyin": "wenhuaguangchang",
+    "short": "whgc",
+    "lineIds": [
+      "L2",
+      "L5"
+    ],
+    "lng": 125.3404,
+    "lat": 43.8597,
+    "firstLast": {
+      "first": "05:41",
+      "last": "23:02"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S029",
+    "name": "平阳街",
+    "pinyin": "pingyangjie",
+    "short": "pyj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.3628,
+    "lat": 43.8586,
+    "firstLast": {
+      "first": "05:43",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S030",
+    "name": "南关",
+    "pinyin": "nanguan",
+    "short": "ng",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.376,
+    "lat": 43.8597,
+    "firstLast": {
+      "first": "05:44",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S031",
+    "name": "吉林大路",
+    "pinyin": "jilindalu",
+    "short": "jldl",
+    "lineIds": [
+      "L2",
+      "L4"
+    ],
+    "lng": 125.3642,
+    "lat": 43.8821,
+    "firstLast": {
+      "first": "05:45",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S032",
+    "name": "东盛大街",
+    "pinyin": "dongshengdajie",
+    "short": "dsdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.3984,
+    "lat": 43.8619,
+    "firstLast": {
+      "first": "05:46",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S033",
+    "name": "东环城路",
+    "pinyin": "donghuanchenglu",
+    "short": "dhcl",
+    "lineIds": [
+      "L2",
+      "L7"
+    ],
+    "lng": 125.4115,
+    "lat": 43.863,
+    "firstLast": {
+      "first": "05:40",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S034",
+    "name": "长青",
+    "pinyin": "changqing",
+    "short": "cq",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4246,
+    "lat": 43.8641,
+    "firstLast": {
+      "first": "05:48",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S035",
+    "name": "东方广场",
+    "pinyin": "dongfangguangchang",
+    "short": "dfgc",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4339,
+    "lat": 43.8652,
+    "firstLast": {
+      "first": "05:49",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S036",
+    "name": "哈尔滨大街",
+    "pinyin": "haerbindajie",
+    "short": "hebdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.447,
+    "lat": 43.8663,
+    "firstLast": {
+      "first": "05:50",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S037",
+    "name": "窦家沟",
+    "pinyin": "doujiagou",
+    "short": "djg",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4563,
+    "lat": 43.8674,
+    "firstLast": {
+      "first": "05:51",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S038",
+    "name": "英俊大街",
+    "pinyin": "yingjundajie",
+    "short": "yjdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4695,
+    "lat": 43.8685,
+    "firstLast": {
+      "first": "05:52",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S039",
+    "name": "英凯大街",
+    "pinyin": "yingkaidajie",
+    "short": "ykdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4826,
+    "lat": 43.8696,
+    "firstLast": {
+      "first": "05:53",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S040",
+    "name": "林溪大街",
+    "pinyin": "linxidajie",
+    "short": "lxdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.4919,
+    "lat": 43.8707,
+    "firstLast": {
+      "first": "05:54",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S041",
+    "name": "雾开河大街",
+    "pinyin": "wukaihedajie",
+    "short": "wkhdj",
+    "lineIds": [
+      "L2"
+    ],
+    "lng": 125.505,
+    "lat": 43.8685,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S042",
+    "name": "伪满皇宫",
+    "pinyin": "weimanhuanggong",
+    "short": "wmhg",
+    "lineIds": [
+      "L3",
+      "L4"
+    ],
+    "lng": 125.3503,
+    "lat": 43.9055,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S043",
+    "name": "东广场",
+    "pinyin": "dongguangchang",
+    "short": "dgc",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.3543,
+    "lat": 43.9016,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S044",
+    "name": "芙蓉桥",
+    "pinyin": "furongqiao",
+    "short": "frq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.30803,
+    "lat": 43.904861,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S045",
+    "name": "西安桥",
+    "pinyin": "xianqiao",
+    "short": "xaq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.29388,
+    "lat": 43.89256,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S046",
+    "name": "南昌路",
+    "pinyin": "nanchanglu",
+    "short": "ncl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.29045,
+    "lat": 43.88777,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S047",
+    "name": "朝阳桥",
+    "pinyin": "zhaoyangqiao",
+    "short": "zyq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.28667,
+    "lat": 43.88256,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S048",
+    "name": "湖西桥",
+    "pinyin": "huxiqiao",
+    "short": "hxq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.282275,
+    "lat": 43.869479,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S049",
+    "name": "宽平桥",
+    "pinyin": "kuanpingqiao",
+    "short": "kpq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.274194,
+    "lat": 43.862612,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S050",
+    "name": "抚松路",
+    "pinyin": "fusonglu",
+    "short": "fsl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.26178,
+    "lat": 43.85569,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S051",
+    "name": "孟家屯",
+    "pinyin": "mengjiatun",
+    "short": "mjt",
+    "lineIds": [
+      "L3",
+      "L7"
+    ],
+    "lng": 125.262112,
+    "lat": 43.851257,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S052",
+    "name": "湖光路",
+    "pinyin": "huguanglu",
+    "short": "hgl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.266605,
+    "lat": 43.844465,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S053",
+    "name": "电台街",
+    "pinyin": "diantaijie",
+    "short": "dtj",
+    "lineIds": [
+      "L3",
+      "L5"
+    ],
+    "lng": 125.27197,
+    "lat": 43.83069,
+    "firstLast": {
+      "first": "05:28",
+      "last": "22:49"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S054",
+    "name": "前进西",
+    "pinyin": "qianjinxi",
+    "short": "qjx",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.28013,
+    "lat": 43.82981,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S055",
+    "name": "前进大街",
+    "pinyin": "qianjindajie",
+    "short": "qjdj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.293332,
+    "lat": 43.832288,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S056",
+    "name": "卫明街",
+    "pinyin": "weimingjie",
+    "short": "wmj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.29623,
+    "lat": 43.82998,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S057",
+    "name": "卫光街",
+    "pinyin": "weiguangjie",
+    "short": "wgj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.315565,
+    "lat": 43.832672,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S058",
+    "name": "亚泰立交桥",
+    "pinyin": "yatailijiaoqiao",
+    "short": "ytljq",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.33267,
+    "lat": 43.83009,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S059",
+    "name": "伊通河",
+    "pinyin": "yitonghe",
+    "short": "yth",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.35007,
+    "lat": 43.832934,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S060",
+    "name": "职业技术大学",
+    "pinyin": "zhiyejishudaxue",
+    "short": "zyjsdx",
+    "lineIds": [
+      "L3",
+      "L4"
+    ],
+    "lng": 125.365,
+    "lat": 43.833,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S061",
+    "name": "吉林广电",
+    "pinyin": "jilinguangdian",
+    "short": "jlgd",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.379569,
+    "lat": 43.833298,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S062",
+    "name": "会展中心",
+    "pinyin": "huizhanzhongxin",
+    "short": "hzzx",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.3918,
+    "lat": 43.8328,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S063",
+    "name": "世纪广场",
+    "pinyin": "shijiguangchang",
+    "short": "sjgc",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.403,
+    "lat": 43.8312,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S064",
+    "name": "金鑫街",
+    "pinyin": "jinxinjie",
+    "short": "jxj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.41438,
+    "lat": 43.8319,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S065",
+    "name": "博硕路",
+    "pinyin": "boshuolu",
+    "short": "bsl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.42275,
+    "lat": 43.82726,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S066",
+    "name": "金河街",
+    "pinyin": "jinhejie",
+    "short": "jhj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4288,
+    "lat": 43.8205,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S067",
+    "name": "农博园",
+    "pinyin": "nongboyuan",
+    "short": "nby",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4318,
+    "lat": 43.812,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S068",
+    "name": "净月潭公园",
+    "pinyin": "jingyuetangongyuan",
+    "short": "jytgy",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4338,
+    "lat": 43.802,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S069",
+    "name": "紫杉路",
+    "pinyin": "zishanlu",
+    "short": "zsl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4352,
+    "lat": 43.7915,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S070",
+    "name": "宝相街",
+    "pinyin": "baoxiangjie",
+    "short": "bxj",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4358,
+    "lat": 43.7835,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S071",
+    "name": "滑雪场",
+    "pinyin": "huaxuechang",
+    "short": "hxc",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4361,
+    "lat": 43.7762,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S072",
+    "name": "长影世纪城",
+    "pinyin": "zhangyingshijicheng",
+    "short": "zysjc",
+    "lineIds": [
+      "L3",
+      "L6"
+    ],
+    "lng": 125.4363,
+    "lat": 43.7703,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S073",
+    "name": "北亚泰大街",
+    "pinyin": "beiyataidajie",
+    "short": "bytdj",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.3293,
+    "lat": 43.9053,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S074",
+    "name": "东大桥",
+    "pinyin": "dongdaqiao",
+    "short": "ddq",
+    "lineIds": [
+      "L4",
+      "L5"
+    ],
+    "lng": 125.3354,
+    "lat": 43.8931,
+    "firstLast": {
+      "first": "05:35",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S075",
+    "name": "东新路",
+    "pinyin": "dongxinlu",
+    "short": "dxl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366184,
+    "lat": 43.892138,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S076",
+    "name": "公平路",
+    "pinyin": "gongpinglu",
+    "short": "gpl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.364467,
+    "lat": 43.872059,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S077",
+    "name": "海口路",
+    "pinyin": "haikoulu",
+    "short": "hkl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.364616,
+    "lat": 43.863863,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S078",
+    "name": "浦东路",
+    "pinyin": "pudonglu",
+    "short": "pdl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.3648,
+    "lat": 43.8576,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S079",
+    "name": "威海路",
+    "pinyin": "weihailu",
+    "short": "whl",
+    "lineIds": [
+      "L4",
+      "L7"
+    ],
+    "lng": 125.3583,
+    "lat": 43.84807,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S080",
+    "name": "北海路",
+    "pinyin": "beihailu",
+    "short": "bhl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.365147,
+    "lat": 43.841594,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S081",
+    "name": "世荣路",
+    "pinyin": "shironglu",
+    "short": "srl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.36538,
+    "lat": 43.825215,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S082",
+    "name": "南环城路",
+    "pinyin": "nanhuanchenglu",
+    "short": "nhcl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.365611,
+    "lat": 43.817458,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S083",
+    "name": "宜盛街",
+    "pinyin": "yishengjie",
+    "short": "ysj",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.36575,
+    "lat": 43.807326,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S084",
+    "name": "天工路",
+    "pinyin": "tiangonglu",
+    "short": "tgl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366379,
+    "lat": 43.795838,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S085",
+    "name": "福祉大路",
+    "pinyin": "fuzhidalu",
+    "short": "fzdl",
+    "lineIds": [
+      "L4",
+      "L6"
+    ],
+    "lng": 125.36714,
+    "lat": 43.787429,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S086",
+    "name": "天青路",
+    "pinyin": "tianqinglu",
+    "short": "tql",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366042,
+    "lat": 43.778522,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S087",
+    "name": "天普路",
+    "pinyin": "tianpulu",
+    "short": "tpl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366225,
+    "lat": 43.7715,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S088",
+    "name": "前十里堡",
+    "pinyin": "qianshilipu",
+    "short": "qslp",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366352,
+    "lat": 43.763444,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S089",
+    "name": "天新路",
+    "pinyin": "tianxinlu",
+    "short": "txl",
+    "lineIds": [
+      "L4"
+    ],
+    "lng": 125.366538,
+    "lat": 43.755367,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:05"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S090",
+    "name": "卓越大街",
+    "pinyin": "zhuoyuedajie",
+    "short": "zydj",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.2262,
+    "lat": 43.8305,
+    "firstLast": {
+      "first": "05:15",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S091",
+    "name": "市委党校",
+    "pinyin": "shiweidangxiao",
+    "short": "swdx",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.2361,
+    "lat": 43.8346,
+    "firstLast": {
+      "first": "05:16",
+      "last": "22:36"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S092",
+    "name": "顺达路",
+    "pinyin": "shundalu",
+    "short": "sdl",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.246,
+    "lat": 43.8386,
+    "firstLast": {
+      "first": "05:18",
+      "last": "22:38"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S093",
+    "name": "越达路",
+    "pinyin": "yuedalu",
+    "short": "ydl",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.252,
+    "lat": 43.8427,
+    "firstLast": {
+      "first": "05:19",
+      "last": "22:40"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S094",
+    "name": "安新路",
+    "pinyin": "anxinlu",
+    "short": "axl",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.2619,
+    "lat": 43.8468,
+    "firstLast": {
+      "first": "05:21",
+      "last": "22:42"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S095",
+    "name": "蔚山路",
+    "pinyin": "weishanlu",
+    "short": "wsl",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.2718,
+    "lat": 43.8509,
+    "firstLast": {
+      "first": "05:23",
+      "last": "22:44"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S096",
+    "name": "硅谷广场（吉大中心校区）",
+    "pinyin": "guiguguangchangjidazhongxinxiaoqu",
+    "short": "gggcjdzxxq",
+    "lineIds": [
+      "L5",
+      "L6"
+    ],
+    "lng": 125.2778,
+    "lat": 43.8549,
+    "firstLast": {
+      "first": "05:25",
+      "last": "22:46"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S097",
+    "name": "省委党校",
+    "pinyin": "shengweidangxiao",
+    "short": "swdx",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.289736,
+    "lat": 43.839619,
+    "firstLast": {
+      "first": "05:31",
+      "last": "22:52"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S098",
+    "name": "南湖广场（吉大南湖校区）",
+    "pinyin": "nanhuguangchangjidananhuxiaoqu",
+    "short": "nhgcjdnhxq",
+    "lineIds": [
+      "L5",
+      "L7"
+    ],
+    "lng": 125.3035,
+    "lat": 43.856,
+    "firstLast": {
+      "first": "05:33",
+      "last": "22:54"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S099",
+    "name": "长影旧址博物馆",
+    "pinyin": "zhangyingjiuzhibowuguan",
+    "short": "zyjzbwg",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.3134,
+    "lat": 43.8712,
+    "firstLast": {
+      "first": "05:36",
+      "last": "22:56"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "S100",
+    "name": "红旗街",
+    "pinyin": "hongqijie",
+    "short": "hqj",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.3194,
+    "lat": 43.8753,
+    "firstLast": {
+      "first": "05:38",
+      "last": "22:59"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S101",
+    "name": "同志街",
+    "pinyin": "tongzhijie",
+    "short": "tzj",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.3392,
+    "lat": 43.8802,
+    "firstLast": {
+      "first": "05:43",
+      "last": "23:04"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S102",
+    "name": "大经路",
+    "pinyin": "dajinglu",
+    "short": "djl",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.3551,
+    "lat": 43.8884,
+    "firstLast": {
+      "first": "05:47",
+      "last": "23:08"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S103",
+    "name": "省妇儿中心",
+    "pinyin": "shengfuerzhongxin",
+    "short": "sfezx",
+    "lineIds": [
+      "L5"
+    ],
+    "lng": 125.3649,
+    "lat": 43.8924,
+    "firstLast": {
+      "first": "05:49",
+      "last": "23:09"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S104",
+    "name": "腾跃街",
+    "pinyin": "tengyuejie",
+    "short": "tyj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.2599,
+    "lat": 43.864,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S105",
+    "name": "支农大街",
+    "pinyin": "zhinongdajie",
+    "short": "zndj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.2669,
+    "lat": 43.8593,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S106",
+    "name": "飞跃广场",
+    "pinyin": "feiyueguangchang",
+    "short": "fygc",
+    "lineIds": [
+      "L6",
+      "L7"
+    ],
+    "lng": 125.2777,
+    "lat": 43.8545,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S107",
+    "name": "欧亚卖场",
+    "pinyin": "ouyamaichang",
+    "short": "oymc",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.2885,
+    "lat": 43.8498,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S108",
+    "name": "光谷大街",
+    "pinyin": "guanggudajie",
+    "short": "ggdj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.2955,
+    "lat": 43.845,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S109",
+    "name": "百花园",
+    "pinyin": "baihuayuan",
+    "short": "bhy",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3172,
+    "lat": 43.8355,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S110",
+    "name": "市法院",
+    "pinyin": "shifayuan",
+    "short": "sfy",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3242,
+    "lat": 43.8307,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S111",
+    "name": "兰桡湖公园",
+    "pinyin": "lanraohugongyuan",
+    "short": "lrhgy",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.335,
+    "lat": 43.826,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S112",
+    "name": "轨道集团",
+    "pinyin": "guidaojituan",
+    "short": "gdjt",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.342,
+    "lat": 43.8212,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S113",
+    "name": "新明街",
+    "pinyin": "xinmingjie",
+    "short": "xmj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3528,
+    "lat": 43.8165,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S114",
+    "name": "南溪湿地公园",
+    "pinyin": "nanxishidigongyuan",
+    "short": "nxsdgy",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3706,
+    "lat": 43.8038,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S115",
+    "name": "吴家店",
+    "pinyin": "wujiadian",
+    "short": "wjd",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3923,
+    "lat": 43.7943,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S116",
+    "name": "亚泰足球基地",
+    "pinyin": "yataizuqiujidi",
+    "short": "ytzqjd",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.3992,
+    "lat": 43.7895,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S117",
+    "name": "樱花街",
+    "pinyin": "yinghuajie",
+    "short": "yhj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.4101,
+    "lat": 43.7848,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S118",
+    "name": "聚业大街",
+    "pinyin": "juyedajie",
+    "short": "jydj",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.4209,
+    "lat": 43.78,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S119",
+    "name": "省博物院",
+    "pinyin": "shengbowuyuan",
+    "short": "sbwy",
+    "lineIds": [
+      "L6"
+    ],
+    "lng": 125.4279,
+    "lat": 43.7753,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S120",
+    "name": "西湖大路",
+    "pinyin": "xihudalu",
+    "short": "xhdl",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.2124,
+    "lat": 43.8485,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S121",
+    "name": "兴安路",
+    "pinyin": "xinganlu",
+    "short": "xal",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.2266,
+    "lat": 43.8504,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S122",
+    "name": "兴顺路",
+    "pinyin": "xingshunlu",
+    "short": "xsl",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.2369,
+    "lat": 43.8524,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S123",
+    "name": "第一汽车制造厂",
+    "pinyin": "diyiqichezhizaochang",
+    "short": "dyqczzc",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.2653,
+    "lat": 43.8564,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S124",
+    "name": "辉南街",
+    "pinyin": "huinanjie",
+    "short": "hnj",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.2898,
+    "lat": 43.8603,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S125",
+    "name": "南湖公园",
+    "pinyin": "nanhugongyuan",
+    "short": "nhgy",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.3143,
+    "lat": 43.8642,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S126",
+    "name": "省税务局",
+    "pinyin": "shengshuiwuju",
+    "short": "sswj",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.3388,
+    "lat": 43.8682,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S127",
+    "name": "东岭南街",
+    "pinyin": "donglingnanjie",
+    "short": "dlnj",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.353,
+    "lat": 43.8702,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S128",
+    "name": "赛得广场",
+    "pinyin": "saideguangchang",
+    "short": "sdgc",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.3775,
+    "lat": 43.8709,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S129",
+    "name": "会展大街",
+    "pinyin": "huizhandajie",
+    "short": "hzdj",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.3917,
+    "lat": 43.8728,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S130",
+    "name": "中东大市场",
+    "pinyin": "zhongdongdashichang",
+    "short": "zddsc",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.4058,
+    "lat": 43.8748,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S131",
+    "name": "岭东路",
+    "pinyin": "lingdonglu",
+    "short": "ldl",
+    "lineIds": [
+      "L7"
+    ],
+    "lng": 125.4162,
+    "lat": 43.8768,
+    "firstLast": {
+      "first": "05:55",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S132",
+    "name": "一二三中学",
+    "pinyin": "yiersanzhongxue",
+    "short": "yeszx",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3298,
+    "lat": 43.9624,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S133",
+    "name": "小南",
+    "pinyin": "xiaonan",
+    "short": "xn",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3384,
+    "lat": 43.9673,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S134",
+    "name": "小城子街",
+    "pinyin": "xiaochengzijie",
+    "short": "xczj",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3431,
+    "lat": 43.9722,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S135",
+    "name": "北湖大桥",
+    "pinyin": "beihudaqiao",
+    "short": "bhdq",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3517,
+    "lat": 43.977,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S136",
+    "name": "北湖公园",
+    "pinyin": "beihugongyuan",
+    "short": "bhgy",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3603,
+    "lat": 43.9819,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S137",
+    "name": "和安街",
+    "pinyin": "heanjie",
+    "short": "haj",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.365,
+    "lat": 43.9868,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S138",
+    "name": "光机路",
+    "pinyin": "guangjilu",
+    "short": "gjl",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3736,
+    "lat": 43.9917,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S139",
+    "name": "大学城路",
+    "pinyin": "daxuechenglu",
+    "short": "dxcl",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3822,
+    "lat": 43.9966,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S140",
+    "name": "地理所",
+    "pinyin": "dilisuo",
+    "short": "dls",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3869,
+    "lat": 44.0015,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S141",
+    "name": "奥林匹克公园",
+    "pinyin": "aolinpikegongyuan",
+    "short": "alpkgy",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.3955,
+    "lat": 44.0064,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S142",
+    "name": "广通路",
+    "pinyin": "guangtonglu",
+    "short": "gtl",
+    "lineIds": [
+      "L8"
+    ],
+    "lng": 125.4002,
+    "lat": 44.0112,
+    "firstLast": {
+      "first": "06:40",
+      "last": "22:00"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S143",
+    "name": "红石",
+    "pinyin": "hongshi",
+    "short": "hs",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3287,
+    "lat": 43.7715,
+    "firstLast": {
+      "first": "06:05",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S144",
+    "name": "兴创路",
+    "pinyin": "xingchuanglu",
+    "short": "xcl",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3268,
+    "lat": 43.7593,
+    "firstLast": {
+      "first": "06:06",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S145",
+    "name": "兴博路",
+    "pinyin": "xingbolu",
+    "short": "xbl",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3287,
+    "lat": 43.7471,
+    "firstLast": {
+      "first": "06:07",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S146",
+    "name": "兴启路",
+    "pinyin": "xingqilu",
+    "short": "xql",
+    "lineIds": [
+      "L1"
+    ],
+    "lng": 125.3267,
+    "lat": 43.7349,
+    "firstLast": {
+      "first": "06:08",
+      "last": "22:35"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  },
+  {
+    "id": "S147",
+    "name": "天泽大路",
+    "pinyin": "tianzedalu",
+    "short": "tzdl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4403,
+    "lat": 43.7632,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口"
+    ]
+  },
+  {
+    "id": "S148",
+    "name": "文远大路",
+    "pinyin": "wenyuandalu",
+    "short": "wydl",
+    "lineIds": [
+      "L3"
+    ],
+    "lng": 125.4443,
+    "lat": 43.7561,
+    "firstLast": {
+      "first": "06:35",
+      "last": "22:30"
+    },
+    "exits": [
+      "A口",
+      "B口",
+      "C口",
+      "D口"
+    ]
+  }
+]
